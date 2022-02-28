@@ -1,4 +1,4 @@
-# PPTX and PDF presentations from:
+# PPTX | PDF presentations from:
 
 More regarding presentations and article figures, can be found [here](https://figshare.com/authors/Paul_A_Gagniuc/1818325)
 
