@@ -2,7 +2,7 @@
 
 This section contains all the original presentations from the supplementary materials related to the book entitled: <i>Algorithms in Bioinformatics: Theory and Implementation</i>. The presentations contain original content related to biology, bioinformatics, genetics, genomics, physics, as well as algorithms or software programming. More regarding these presentations and article figures, can be found [here](https://figshare.com/authors/Paul_A_Gagniuc/1818325).
 
-![screenshot]()
+![screenshot](https://github.com/Gagniuc/Presentations/blob/main/Bioinformatics.png?raw=true)
 
 # References
 
